@@ -1,0 +1,4 @@
+JIRA untuk software tester. https://dwierp.atlassian.net/jira/software/projects/DHMX/boards/10/backlog?selectedIssue=DHMX-16&atlOrigin=eyJpIjoiOWJjMTk3NGQzYTM3NDY3NWEwYjk1ZTJkMTViOGY4YmEiLCJwIjoiaiJ9
+Activation X-Ray apps to JIRA cloud
+Hierarchy => Epic > Story > Task [BE and FE team] 
+Sub hierarchy >> Test Plan > Test Case > Test Set > Test Excecution > Bug [QA team]
