@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dwiHendra
-- 👀 I’m interested in digital business transformation, UI UX design, and software testing
+- 👀 I’m interested in digital business transformation, UI UX design, and software QA
 - 🌱 I’m currently learning BPMN diagram, JIRA, X-Ray, Figma
 - 💞️ I’m looking to collaborate on IT related project, business process improvements, software testing, UI UX design
 - 📫 How to reach me by email
