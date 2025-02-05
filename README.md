@@ -1,7 +1,7 @@
-- 👋 Hi, I’m dwiHendra
-- 👀 I’m interested in digital business transformation, UI UX design, and software QA
-- 🌱 I’m currently learning BPMN diagram, JIRA, X-Ray, Figma
-- 💞️ I’m looking to collaborate on IT related project, business process improvements, software testing, UI UX design
+- 👋 Hi, I’m Dwi Hendra
+- 👀 I’m a Quality Assurance Specialist | QA Analyst | QA Engineer | Software Tester
+- 🌱 I’m an UI UX design enthusiast
+- 💞️ I’m SAP FICO Consultant
 - 📫 How to reach me by email
 - 😄 Pronouns: dwierp at gmail dot com
 - ⚡ Fun fact: serious but fun
