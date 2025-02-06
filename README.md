@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dwi Hendra
-- 👀 I’m a Quality Assurance Specialist | QA Analyst | QA Engineer | Software Tester
+- 👀 I’m a Software Quality Assurance Specialist | QA Analyst | QA Engineer | Software Tester
 - 🌱 I’m an UI UX design enthusiast
 - 💞️ I’m SAP FICO Consultant
 - 📫 How to reach me by email
